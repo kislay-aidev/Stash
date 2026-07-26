@@ -1,0 +1,1 @@
+"""Stash configuration package."""

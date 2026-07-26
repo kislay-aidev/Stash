@@ -1,0 +1,1 @@
+"""Stash core organization engine."""
